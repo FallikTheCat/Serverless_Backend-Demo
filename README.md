@@ -1,4 +1,4 @@
-# Serverless Backend - AI Video Generation 
+# Serverless Backend
 
 A serverless backend API built with Firebase Cloud Functions and Express.js for AI-powered image-to-video generation using Replicate's AI models.
 
