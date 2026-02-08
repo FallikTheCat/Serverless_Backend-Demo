@@ -27,7 +27,7 @@ This project demonstrates how to build a production-ready serverless backend tha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/FallikTheCat/Serverless_Backend-AIVideoGeneration.git
+git clone https://github.com/KocBaturay/Serverless_Backend-AIVideoGeneration.git
 cd functions
 ```
 
